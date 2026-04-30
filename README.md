@@ -10,11 +10,19 @@ Data Scientist and AI Consultant focused on applied AI systems, Agentic RAG, AI 
 - Synthetic-data portfolio projects with clear disclosure
 - Data science, automation, analytics, and AI consulting use cases
 
+## Featured AI Portfolio Project
+
+**Agentic Support Copilot** - Streamlit-first AI support workflow demo that triages synthetic SaaS tickets, retrieves guidance from a synthetic support knowledge base, evaluates deterministic routing behavior, and optionally drafts grounded responses with human review safeguards.
+
+**Stack:** Python, Streamlit, pytest, Ruff, scikit-learn TF-IDF retrieval, optional OpenAI API integration.
+
+**Repository:** [agentic-support-copilot](https://github.com/pshuklabaidya/agentic-support-copilot)
+
 ## Featured Projects
 
 | Project | Focus | Status |
 |---|---|---|
-| Agentic Support Copilot | Agentic RAG over synthetic SaaS support tickets | In progress |
+| [Agentic Support Copilot](https://github.com/pshuklabaidya/agentic-support-copilot) | Streamlit-first support triage, local retrieval, optional grounded draft generation, and synthetic-data evaluation | Complete |
 | LLM Evaluation Harness | Prompt, retrieval, and hallucination evaluation | Planned |
 | Policy RAG With Citations | Citation-grounded document intelligence | Planned |
 | Product Analytics Copilot | Synthetic SaaS analytics and decision support | Planned |
