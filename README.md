@@ -22,10 +22,14 @@ Data Scientist and AI Consultant focused on applied AI systems, Agentic RAG, AI 
 
 | Project | Focus | Status |
 |---|---|---|
-| [Agentic Support Copilot](https://github.com/pshuklabaidya/agentic-support-copilot) | Streamlit-first support triage, local retrieval, optional grounded draft generation, and synthetic-data evaluation | Complete |
-| LLM Evaluation Harness | Prompt, retrieval, and hallucination evaluation | Planned |
+| [Agentic Support Copilot](https://github.com/pshuklabaidya/agentic-support-copilot) | Agentic RAG over synthetic SaaS support tickets | Complete |
+| [LLM Evaluation Harness](https://github.com/pshuklabaidya/llm-evaluation-harness) | RAG and LLM evaluation with groundedness scoring, hallucination-risk checks, markdown reporting, and Streamlit dashboard | Complete |
 | Policy RAG With Citations | Citation-grounded document intelligence | Planned |
 | Product Analytics Copilot | Synthetic SaaS analytics and decision support | Planned |
+
+## Current Portfolio Direction
+
+My current AI portfolio focuses on practical RAG and agentic AI systems that demonstrate both application development and quality assurance. The first completed projects cover agentic support automation and LLM evaluation, including retrieval testing, groundedness checks, hallucination-risk detection, and stakeholder-facing Streamlit demos.
 
 ## Portfolio Principles
 
