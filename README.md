@@ -16,6 +16,7 @@ Data Scientist and AI Consultant focused on applied AI systems, Agentic RAG, AI 
 
 | Project | Focus | Status |
 |---|---|---|
+| [Agentic Grant Proposal Builder](https://github.com/pshuklabaidya/agentic-grant-proposal-builder) | Agentic RAG grant proposal workflow with OpenAI tool-calling agents, Streamlit dashboard, deterministic fallback, quality gates, CLI, Docker packaging, JSON Schema contracts, evaluation reports, release automation, and human-review safeguards. | Complete |
 | [LLM Evaluation Harness](https://github.com/pshuklabaidya/llm-evaluation-harness) | RAG and LLM evaluation with groundedness scoring, hallucination-risk checks, markdown reporting, and Streamlit dashboard | Complete |
 | [Policy RAG With Citations](https://github.com/pshuklabaidya/policy-rag-with-citations) | Citation-grounded document intelligence over synthetic policy documents with retrieval evaluation, abstention behavior, Streamlit demo, CLI demo, CI, and source traceability | Complete |
 | OpenAI Product Strategy Agents | OpenAI API multi-agent workflow over synthetic SaaS product and customer data for product strategy analysis and decision support | In development |
